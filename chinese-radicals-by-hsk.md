@@ -169,10 +169,6 @@ Following is the list of each radicals divided in HSK levels.
 | 24  | yi            | yǐ            | 以               | by means of         | Medium                     | 2%                         |
 | 25  | qi            | qī            | 期               | period/expectation  | Medium                     | 2%                         |
 
-This is the list of **HSK 5 radicals** with their details. Let me know if you need the list for HSK 6 or any other information!
-
-I apologize for that oversight! Here’s a more complete list of **HSK 6 radicals**, including the additional entries:
-
 ## **HSK 6 Radicals**
 
 | Sr# | Simple Pinyin | Tonal Pinyin  | Chinese Radical | English Meaning    | Usage in HSK 6 Characters | Usage in Total Characters |
