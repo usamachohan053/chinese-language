@@ -42,15 +42,14 @@ Following is the list of each radicals divided in HSK levels.
 | 24  | shou          | shǒu          | 手/扌           | hand               | Medium                     | 5%                         |
 | 25  | zhi           | zhǐ           | 止               | stop               | Low                        | 1%                         |
 | 26  | you           | yòu           | 又               | again/hand         | Medium                     | 1.5%                       |
-| 27  | kou           | kǒu           | 口               | mouth              | High                       | 4%                         |
-| 28  | tou           | tóu           | 头               | head               | Medium                     | 2%                         |
-| 29  | shan          | shān          | 彡               | hair/shape         | Low                        | 1%                         |
-| 30  | li            | lì            | 立               | stand              | Low                        | 1.5%                       |
-| 31  | jin           | jīn           | 巾               | towel/cloth        | Low                        | 1.5%                       |
-| 32  | shou          | shǒu          | 手               | hand               | Medium                     | 5%                         |
-| 33  | xia           | xià           | 下               | below/under        | Medium                     | 1.5%                       |
-| 34  | you           | yòu           | 又               | again/right hand   | Medium                     | 1.5%                       |
-| 35  | ma            | mǎ            | 马               | horse              | Low                        | 1.5%                       |
+| 27  | tou           | tóu           | 头               | head               | Medium                     | 2%                         |
+| 28  | shan          | shān          | 彡               | hair/shape         | Low                        | 1%                         |
+| 29  | li            | lì            | 立               | stand              | Low                        | 1.5%                       |
+| 30  | jin           | jīn           | 巾               | towel/cloth        | Low                        | 1.5%                       |
+| 31  | shou          | shǒu          | 手               | hand               | Medium                     | 5%                         |
+| 32  | xia           | xià           | 下               | below/under        | Medium                     | 1.5%                       |
+| 33  | you           | yòu           | 又               | again/right hand   | Medium                     | 1.5%                       |
+| 34  | ma            | mǎ            | 马               | horse              | Low                        | 1.5%                       |
 
 ## **HSK 2 Radicals**
 
