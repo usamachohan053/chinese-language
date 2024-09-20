@@ -2,12 +2,12 @@
 
 HSK is chinese proficiency test with 6 levels. Here's a breakdown of radicals which occur in different HSK levels so to ease someone understanding meaning and sound of particular word. following is the breakdown of piniyin with respect to hHSK levels.
 
-- **HSK 1:** 34 radicals
-- **HSK 2:** 23 radicals
-- **HSK 3:** 26 radicals
-- **HSK 4:** 22 radicals
-- **HSK 5:** 29 radicals
-- **HSK 6:** 80 radicals
+- [**HSK 1:**](#hsk-1-radicals) 34 radicals
+- [**HSK 2:**](#hsk-2-radicals) 23 radicals
+- [**HSK 3:**](#hsk-3-radicals) 26 radicals
+- [**HSK 4:**](#hsk-4-radicals) 22 radicals
+- [**HSK 5:**](#hsk-5-radicals) 29 radicals
+- [**HSK 6:**](#hsk-6-radicals) 80 radicals
 - **Total:** 214 radicals
 
 Following is the list of each radicals divided in HSK levels.
