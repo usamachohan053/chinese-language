@@ -48,8 +48,7 @@ Following is the list of each radicals divided in HSK levels.
 | 30  | jin           | jīn           | 巾               | towel/cloth        | Low                        | 1.5%                       |
 | 31  | shou          | shǒu          | 手               | hand               | Medium                     | 5%                         |
 | 32  | xia           | xià           | 下               | below/under        | Medium                     | 1.5%                       |
-| 33  | you           | yòu           | 又               | again/right hand   | Medium                     | 1.5%                       |
-| 34  | ma            | mǎ            | 马               | horse              | Low                        | 1.5%                       |
+| 33  | ma            | mǎ            | 马               | horse              | Low                        | 1.5%                       |
 
 ## **HSK 2 Radicals**
 
